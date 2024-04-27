@@ -1,0 +1,11 @@
+/.idea/
+/.venv
+/.vscode/
+/__pycache__/
+/keys/private_key_5000.pem
+/keys/public_key_5000.pem
+
+video.mov
+input_video.mp4
+marvelteaser.mp4
+image-enc.png
